@@ -1,0 +1,22 @@
+navigator dependencies
+---------------------------------
+npm install @react-navigation/native @react-navigation/stack
+
+expo install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+expo install @expo-google-fonts/reenie-beanie
+
+npm install @react-navigation/bottom-tabs
+
+expo install expo-google-app-auth
+
+expo install expo-location
+
+expo install expo-permissions
+
+expo install expo-task-manager
+
+
+firebase
+-----------------
+npm install --save firebase
